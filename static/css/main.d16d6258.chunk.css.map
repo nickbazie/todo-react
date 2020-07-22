@@ -1,0 +1,1 @@
+{"version":3,"sources":["todo-list.css"],"names":[],"mappings":"AAAA,4BACI,qBACJ","file":"main.d16d6258.chunk.css","sourcesContent":[".todo-list .list-group-item {\r\n    padding: .25rem .75rem;\r\n}\r\n"]}
